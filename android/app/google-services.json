@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333663447514",
+    "project_id": "infogains-b4c69",
+    "storage_bucket": "infogains-b4c69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333663447514:android:d150b3239c19fb76d8f8e3",
+        "android_client_info": {
+          "package_name": "com.example.slice_ledger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlNN9GONNGR0tM2advyLx0eKm0V4mXw1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
